@@ -20,7 +20,7 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<br>
+<br><br/>
 
 - 🔭 Atualmente trabalhando em TI desde 2013 como Analista de TI Sênior em Volta Redonda-R.J.
 - 🤵 Casado com a pessoa mais maravilhosa deste mundo!
@@ -63,15 +63,13 @@
 <code><img height="26" src="https://lh3.googleusercontent.com/LTSV3wULY2ju1amZWssE3G9dyDRvFkSXq7mwyyLxo-6S_zwxZjUqEFdbAQMffQ3D_Do"></code>
 [Conversor de Moedas](https://play.google.com/store/apps/details?id=dev.joaopaulovieira.conversor_moeda_jpvp)
 
----
-## Siga-me:
 
+## Siga-me:
 [![Twitter: joaopaulo_dev](https://img.shields.io/twitter/follow/joaopaulo_dev?style=social)](https://twitter.com/joaopaulo_dev)
 [![GitHub joaopaulovieira-dev](https://img.shields.io/github/followers/joaopaulovieira-dev?label=follow&style=social)](https://github.com/joaopaulovieira-dev)
 
----
-## Minhas Estatísticas de Desenvolvimento:
 
+## Minhas Estatísticas de Desenvolvimento:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulovieira-dev&layout=compact)](https://github.com/joaopaulovieira-dev)
 <br>
 
