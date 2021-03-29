@@ -30,7 +30,7 @@
 - 💬 Pergunte-me sobre TI que provavelmente poderei lhe ajudar.
 - 🧐 Focando em desenvolvimento para uma possível migração de área.
 - ⚡ Curiosidade: Trabalho com tecnologia mas não gosto de café ☕ 🚫 😂
-- 📫 Como entrar em contato comigo: [E-mail - contato@joaopaulovieira.dev](mailto:contato@joaopaulovieira.dev), [WhatsApp](https://api.whatsapp.com/send?phone=5524981527163&text=Ol%C3%A1%2C%20Jo%C3%A3o%20Paulo!%20Cheguei%20aqui%20atrav%C3%A9s%20do%20perfil%20do%20GitHub.) e [Telegram](https://t.me/joaopaulovieira_dev)
+- 📫 Como entrar em contato comigo: [E-mail - contato@joaopaulovieira.dev](mailto:contato@joaopaulovieira.dev), [WhatsApp](https://api.whatsapp.com/send?phone=5524981527163&text=Ol%C3%A1%2C%20Jo%C3%A3o%20Paulo!%20Cheguei%20aqui%20atrav%C3%A9s%20do%20perfil%20do%20GitHub.) ou [Telegram](https://t.me/joaopaulovieira_dev)
 
 ---
 ### Linguagens e Ferramentas:
