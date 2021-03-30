@@ -1,3 +1,5 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=joapualovieira-dev&color=brightgreen" alt="joapualovieira-dev" /></p>
+
 <img src="https://www.pngfind.com/pngs/b/484-4844728_trabalho-computador-vetor-hd-png-download.png" min-width="400px" max-width="400px" width="400px" align="right" alt="/">
 
 ### Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, meu nome é João Paulo!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
