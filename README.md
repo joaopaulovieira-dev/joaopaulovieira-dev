@@ -1,6 +1,6 @@
 <img src="https://www.pngfind.com/pngs/b/484-4844728_trabalho-computador-vetor-hd-png-download.png" min-width="400px" max-width="400px" width="400px" align="right" alt="/">
 
-### Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, meu nome é João Paulo!  👋
+### Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, meu nome é João Paulo!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <a href="https://twitter.com/joaopaulo_dev">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
