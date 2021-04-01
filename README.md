@@ -75,7 +75,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulovieira-dev&layout=compact)](https://github.com/joaopaulovieira-dev)
 <br>
 
-[![joaopaulovieira.dev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@joaopaulovieira_dev&layout=compact)](https://wakatime.com/@joaopaulovieira_dev)
+[![joaopaulovieira.dev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@joaopaulovieira_dev)](https://wakatime.com/@joaopaulovieira_dev)
 
 <a href="https://github.com/joaopaulovieira-dev">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopaulovieira-dev&show_icons=true&theme=light&line_height=27" alt="joaopaulovieira.dev github stats"/>
