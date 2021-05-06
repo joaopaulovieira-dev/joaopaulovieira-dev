@@ -68,18 +68,20 @@
 <code><img height="35" src="https://play-lh.googleusercontent.com/745uJMojHw-VH_4rAYEXZsIs6MzYjNUDBlnhikwrC7G6YBoJg9txM-L1bcYb_mv5fcE=s180-rw"></code>
 [Chat Youtility - Suporte Remoto](https://play.google.com/store/apps/details?id=dev.joaopaulovieira.chat_youtility_jpvp)
 
-
 ## Siga-me:
 [![Twitter: joaopaulo_dev](https://img.shields.io/twitter/follow/joaopaulo_dev?style=social)](https://twitter.com/joaopaulo_dev)
 [![GitHub joaopaulovieira-dev](https://img.shields.io/github/followers/joaopaulovieira-dev?label=follow&style=social)](https://github.com/joaopaulovieira-dev)
 
 
 ## Minhas Estatísticas de Desenvolvimento:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulovieira-dev&layout=compact&theme=tokyonight)](https://github.com/joaopaulovieira-dev)
-<br>
-
-[![joaopaulovieira.dev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@joaopaulovieira_dev&layout=compact&theme=tokyonight)](https://wakatime.com/@joaopaulovieira_dev)
-
-<a href="https://github.com/joaopaulovieira-dev">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopaulovieira-dev&show_icons=true&theme=tokyonight" alt="joaopaulovieira.dev github stats"/>
-</a>
+<p align="left">
+  <img   
+      align="left"
+      height="165" 
+       src="https://github-readme-stats.vercel.app/api?username=joaopaulovieira-dev&show_icons=true&theme=tokyonight"
+    />
+       <img
+      align="left"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulovieira-dev&layout=compact&theme=tokyonight"
+    />
+</p>
