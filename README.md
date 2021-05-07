@@ -3,23 +3,23 @@
 <img src="https://github.com/josepholiveira/josepholiveira/raw/master/images/illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="/">
 
 ### Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, meu nome é João Paulo!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<a href="https://api.whatsapp.com/send?phone=5524981527163">
+  <img align="left" alt="Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111728.svg?token=exp=1620427676~hmac=4bfdd97697a3a30183d09463e62f7a86" />
+</a>
 <a href="https://twitter.com/joaopaulo_dev">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111688.svg?token=exp=1620427672~hmac=e2da35c676650e987e9659a9a3fc9b91" />
 </a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-vieira-32368486/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/joaopaulovieira-dev">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Linkdein" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111499.svg?token=exp=1620427510~hmac=135ea4216a8e503bb23bf7e95c3b284e" />
 </a>
 <a href="https://t.me/joaopaulovieira_dev">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Telegram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111644.svg?token=exp=1620427420~hmac=a6ddbdb2d4b4a2df424be51bf6fd1c69" />
 </a>
 <a href="https://www.instagram.com/joaopaulovieira.dev/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1620427367~hmac=5d9e8b430e38490182ebe8b8cd3261e8" />
 </a>
 <a href="https://www.facebook.com/joaopaulovieira.dev/">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111398.svg?token=exp=1620427469~hmac=21eb5093b2b67d44383cfa79bfb9d16d" />
 </a>
 
 <br><br/>
