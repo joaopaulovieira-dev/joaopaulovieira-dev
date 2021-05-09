@@ -4,7 +4,7 @@
 
 ### Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, meu nome é João Paulo!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-vieira-32368486/">
+<a href="www.linkedin.com/in/joaopaulovieira-dev">
   <img align="left" alt="Linkdein" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111499.svg?token=exp=1620427510~hmac=135ea4216a8e503bb23bf7e95c3b284e" />
 </a>
 
