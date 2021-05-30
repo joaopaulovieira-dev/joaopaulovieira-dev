@@ -41,7 +41,7 @@
 - 📫 Como entrar em contato comigo: [E-mail - contato@joaopaulovieira.dev](mailto:contato@joaopaulovieira.dev), [WhatsApp](https://api.whatsapp.com/send?phone=5524981527163&text=Ol%C3%A1%2C%20Jo%C3%A3o%20Paulo!%20Cheguei%20aqui%20atrav%C3%A9s%20do%20perfil%20do%20GitHub.) ou [Telegram](https://t.me/joaopaulovieira_dev)
 
 ---
-### Linguagens e Ferramentas:
+### Tecnologias com as quais já trabalhei:
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
