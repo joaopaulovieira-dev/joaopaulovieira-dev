@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=joapualovieira-dev&color=brightgreen" alt="joapualovieira-dev" /></p>
+<img src="https://komarev.com/ghpvc/?username=joapualovieira-dev&color=brightgreen" alt="joapualovieira-dev" /> [![GitHub joaopaulovieira-dev](https://img.shields.io/github/followers/joaopaulovieira-dev?label=follow&style=social)](https://github.com/joaopaulovieira-dev)
 
 <img src="https://github.com/josepholiveira/josepholiveira/raw/master/images/illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="/">
 
@@ -41,7 +41,7 @@
 - 📫 Como entrar em contato comigo: [E-mail - contato@joaopaulovieira.dev](mailto:contato@joaopaulovieira.dev), [WhatsApp](https://api.whatsapp.com/send?phone=5524981527163&text=Ol%C3%A1%2C%20Jo%C3%A3o%20Paulo!%20Cheguei%20aqui%20atrav%C3%A9s%20do%20perfil%20do%20GitHub.) ou [Telegram](https://t.me/joaopaulovieira_dev)
 
 ---
-## <img align="left" alt="Twitter" width="28px" src="https://joaopaulovieira.dev/img_github/github_readme/tools.svg" /> Tecnologias com as quais já trabalhei:
+## <img align="left" alt="Twitter" width="35px" src="https://joaopaulovieira.dev/img_github/github_readme/tools.png" /> Tecnologias com as quais já trabalhei:
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -68,22 +68,16 @@
 
 
 ----
-## <img align="left" alt="Twitter" width="28px" src="https://joaopaulovieira.dev/img_github/github_readme/google-play.svg" /> Meus Apps na Playstore:
-<code><img height="35" src="https://lh3.googleusercontent.com/LTSV3wULY2ju1amZWssE3G9dyDRvFkSXq7mwyyLxo-6S_zwxZjUqEFdbAQMffQ3D_Do"></code>
+## <img align="left" alt="Twitter" width="35px" src="https://joaopaulovieira.dev/img_github/github_readme/google-play.svg" /> Meus Apps na Playstore:
+<code><img height="25" src="https://lh3.googleusercontent.com/LTSV3wULY2ju1amZWssE3G9dyDRvFkSXq7mwyyLxo-6S_zwxZjUqEFdbAQMffQ3D_Do"></code>
 [Conversor de Moedas](https://play.google.com/store/apps/details?id=dev.joaopaulovieira.conversor_moeda_jpvp)
 
-<code><img height="35" src="https://play-lh.googleusercontent.com/745uJMojHw-VH_4rAYEXZsIs6MzYjNUDBlnhikwrC7G6YBoJg9txM-L1bcYb_mv5fcE=s180-rw"></code>
+<code><img height="25" src="https://play-lh.googleusercontent.com/745uJMojHw-VH_4rAYEXZsIs6MzYjNUDBlnhikwrC7G6YBoJg9txM-L1bcYb_mv5fcE=s180-rw"></code>
 [Chat Youtility - Suporte Remoto](https://play.google.com/store/apps/details?id=dev.joaopaulovieira.chat_youtility_jpvp)
 
 
 ----
-## <img align="left" alt="Twitter" width="32px" src="https://joaopaulovieira.dev/img_github/github_readme/follow.svg" /> Siga-me:
-[![Twitter: joaopaulo_dev](https://img.shields.io/twitter/follow/joaopaulo_dev?style=social)](https://twitter.com/joaopaulo_dev)
-[![GitHub joaopaulovieira-dev](https://img.shields.io/github/followers/joaopaulovieira-dev?label=follow&style=social)](https://github.com/joaopaulovieira-dev)
-
-
-----
-## <img align="left" alt="Twitter" width="32px" src="https://joaopaulovieira.dev/img_github/github_readme/statics.svg" /> Minhas Estatísticas de Desenvolvimento:
+## <img align="left" alt="Twitter" width="35px" src="https://joaopaulovieira.dev/img_github/github_readme/statics.svg" /> Minhas Estatísticas de Desenvolvimento:
 <p align="left">
   <img   
       align="left"
