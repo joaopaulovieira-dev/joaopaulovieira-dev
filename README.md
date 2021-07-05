@@ -32,7 +32,7 @@
 
 <br><br/>
 
-- 🔭 Atualmente trabalhando em TI desde 2013 como Analista de TI Sênior em Volta Redonda-R.J.
+- 🔭 Atualmente trabalhando em TI desde 2013 como Analista de TI em Volta Redonda-R.J.
 - 🤵 Casado com a pessoa mais maravilhosa deste mundo!
 - 👦 Tenho 26 anos, curto muita música 🎸, games 🎮 e tecnologia 💻.
 - 🌱 Estudado bastante Flutter Mobile UI Framework.
