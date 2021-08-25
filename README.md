@@ -35,10 +35,9 @@
 - 🔭 Atualmente trabalhando em TI desde 2013 como Analista de TI em Volta Redonda-R.J.
 - 🤵 Casado com a pessoa mais maravilhosa deste mundo!
 - 👦 Tenho 27 anos, curto muita música 🎸, games 🎮 e tecnologia 💻.
-- 🌱 Estudado bastante Flutter Mobile UI Framework.
-- 🤔 Procurando ajuda para crescer em desenvolvimento Mobile.
+- 🌱 Evoluindo com Flutter Mobile UI Framework.
 - 💬 Pergunte-me sobre TI que provavelmente poderei lhe ajudar.
-- 🧐 Focando em desenvolvimento para uma possível migração de área.
+- 🧐 Focando em desenvolvimento mobilite.
 - ⚡ Curiosidade: Trabalho com tecnologia mas não gosto de café ☕ 🚫 😂
 - 📫 Como entrar em contato comigo: [contato@joaopaulovieira.dev](mailto:contato@joaopaulovieira.dev), [WhatsApp](https://api.whatsapp.com/send?phone=5524981527163&text=Ol%C3%A1%2C%20Jo%C3%A3o%20Paulo!%20Cheguei%20aqui%20atrav%C3%A9s%20do%20perfil%20do%20GitHub.) ou [Telegram](https://t.me/joaopaulovieira_dev)
 
