@@ -30,19 +30,23 @@
   <img align="left" alt="Twitter" width="28px" src="https://joaopaulovieira.dev/img_github/github_readme/twitter.svg" />
 </a>
 
+<a href="https://stackoverflow.com/users/16715896/jo%c3%a3o-paulo-vieira">
+  <img align="left" alt="Twitter" width="28px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" />
+</a>
+
 <br><br/>
 
-- 🔭 Atualmente trabalhando em TI desde 2013 como Analista de TI em Volta Redonda-R.J.
-- 🤵 Casado com a pessoa mais maravilhosa deste mundo!
+- 🔭 Atualmente trabalhando como desenvolvedor tendo 8 anos de experiência em TI.
 - 👦 Tenho 27 anos, curto muita música 🎸, games 🎮 e tecnologia 💻.
-- 🌱 Evoluindo com Flutter Mobile UI Framework.
-- 💬 Pergunte-me sobre TI que provavelmente poderei lhe ajudar.
-- 🧐 Focando em desenvolvimento mobilite.
+- 👨🏻‍🎓 Graduado em Sistemas de Informação.
+- 👨🏻‍💻 Cursando Pós-Graduação em Engenharia de Software e Pós-Graduação Desenvolvimento Mobile.
+- 🌱 Evoluindo com Flutter Mobile UI Framework (amo desenvolvimento mobile ).
+- 🧐 Focando em desenvolvimento mobile.
 - ⚡ Curiosidade: Trabalho com tecnologia mas não gosto de café ☕ 🚫 😂
 - 📫 Como entrar em contato comigo: [contato@joaopaulovieira.dev](mailto:contato@joaopaulovieira.dev), [WhatsApp](https://api.whatsapp.com/send?phone=5524981527163&text=Ol%C3%A1%2C%20Jo%C3%A3o%20Paulo!%20Cheguei%20aqui%20atrav%C3%A9s%20do%20perfil%20do%20GitHub.) ou [Telegram](https://t.me/joaopaulovieira_dev)
 
 ---
-## <img align="left" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/png/512/1087/1087840.png" /> Tecnologias nas quais já trabalhei:
+## <img align="left" alt="Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/1087/1087840.png" /> Tecnologias nas quais já trabalhei:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -79,14 +83,5 @@
 
 ----
 ## <img align="left" alt="Twitter" width="30px" src="https://joaopaulovieira.dev/img_github/github_readme/statics.svg" /> Minhas Estatísticas de Desenvolvimento:
-<p align="left">
-  <img   
-      align="left"
-      height="165" 
-       src="https://github-readme-stats.vercel.app/api?username=joaopaulovieira-dev&show_icons=true&theme=tokyonight"
-    />
-       <img
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulovieira-dev&layout=compact&theme=tokyonight"
-    />
-</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaopaulovieira-dev&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
