@@ -30,7 +30,7 @@
   <img align="left" alt="Twitter" width="28px" src="https://joaopaulovieira.dev/img_github/github_readme/twitter.svg" />
 </a>
 
-<a href="https://stackoverflow.com/users/16715896/jo%c3%a3o-paulo-vieira">
+<a href="https://pt.stackoverflow.com/users/259882/jo%c3%a3o-paulo-vieira">
   <img align="left" alt="Twitter" width="28px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" />
 </a>
 
