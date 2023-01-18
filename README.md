@@ -72,4 +72,4 @@ Portfólio: <a href="https://joaopaulovieira.dev" target="_blank">joaopaulovieir
 ----
 ## <img align="left" alt="Twitter" width="30px" src="https://joaopaulovieira.dev/img_github/github_readme/statics.svg" /> Minhas Estatísticas de Desenvolvimento:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaopaulovieira-dev&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=joaopaulovieira-dev&theme=github-dark-blue&hide_border=true&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
