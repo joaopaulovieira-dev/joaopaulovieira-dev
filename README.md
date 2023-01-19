@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/b2771f40-d72a-4fbf-8a51-7230c842d84a.svg)](https://wakatime.com/@b2771f40-d72a-4fbf-8a51-7230c842d84a)
 <img src="https://komarev.com/ghpvc/?username=joapualovieira-dev&color=brightgreen" alt="joapualovieira-dev" /> [![GitHub joaopaulovieira-dev](https://img.shields.io/github/followers/joaopaulovieira-dev?label=follow&style=social)](https://github.com/joaopaulovieira-dev)
 
 <img src="https://github.com/josepholiveira/josepholiveira/raw/master/images/illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="/">
