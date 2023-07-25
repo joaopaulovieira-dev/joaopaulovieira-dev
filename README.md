@@ -29,7 +29,7 @@ Portfólio: <a href="https://joaopaulovieira.dev" target="_blank">joaopaulovieir
 
 <br><br/>
 
-- 🔭 Atualmente trabalhando como desenvolvedor tendo 9 anos de experiência em TI.
+- 🔭 Atualmente, atuo como Gerente de TI, com mais de 9 anos de sólida experiência na área de Tecnologia da Informação.
 - 👦 Tenho 28 anos, curto muita música 🎸, games 🎮 e tecnologia 💻.
 - 👪 Brasileiro, casado e com 1 filho.
 - 👨🏻‍🎓 Graduado em Sistemas de Informação na UGB/FERP e Técnico em Informática no IFRJ.
