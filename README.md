@@ -7,12 +7,13 @@
 
 <a href="https://www.linkedin.com/in/joaopaulovieira-dev">
   <img align="left" alt="Linkdein" width="28px" src="https://cdn-icons-png.freepik.com/128/3536/3536505.png" />
+  https://www.linkedin.com/in/joaopaulovieirapereira/
 </a>
 
 <br><br/>
 
-- 🔭 Atualmente, atuo como Gerente de TI, com mais de 10 anos de sólida experiência na área de Tecnologia da Informação.
-- 👦 Tenho 30 anos, curto muita música 🎸, games 🎮 e tecnologia 💻.
+- 🔭 Atualmente, atuo como Gerente de TI, com mais de 11 anos de sólida experiência na área de Tecnologia da Informação.
+- 👦 Tenho 31 anos, curto muita música 🎸, games 🎮 e tecnologia 💻.
 - 👪 Brasileiro, casado e com 1 filho.
 - 👨🏻‍🎓 Graduado em Sistemas de Informação e Pós Graduado em Engenharia de Software e Desolvolvimento Mobile.
 - ⚡ Curiosidade: Trabalho com tecnologia mas não gosto de café ☕ 🚫 😂
