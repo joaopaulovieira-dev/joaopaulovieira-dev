@@ -20,12 +20,6 @@
 - 📫 Como entrar em contato comigo: [contato@joaopaulovieira.dev](mailto:contato@joaopaulovieira.dev)
 ---
 ## <img align="left" alt="Twitter" width="30px" src="https://cdn-icons-png.freepik.com/512/13415/13415566.png" /> Meus Apps na Playstore:
-<code><img height="20" src="https://lh3.googleusercontent.com/LTSV3wULY2ju1amZWssE3G9dyDRvFkSXq7mwyyLxo-6S_zwxZjUqEFdbAQMffQ3D_Do"></code>
-[Conversor de Moedas](https://play.google.com/store/apps/details?id=dev.joaopaulovieira.conversor_moeda_jpvp)
-
-<code><img height="20" src="https://play-lh.googleusercontent.com/745uJMojHw-VH_4rAYEXZsIs6MzYjNUDBlnhikwrC7G6YBoJg9txM-L1bcYb_mv5fcE=s180-rw"></code>
-[Chat Youtility - Suporte Remoto](https://play.google.com/store/apps/details?id=dev.joaopaulovieira.chat_youtility_jpvp)
-
 <code><img height="20" src="https://play-lh.googleusercontent.com/JLYSOB607Bb1CoyGmidxpKeaHqbGm4QmVmC7yeR4l8WebqMmKWtyBmWsNqVDBjTmq0E=w240-h480-rw"></code>
 [Pads Ambiente](https://play.google.com/store/apps/details?id=dev.joaopaulovieira.padsambiente)
 
