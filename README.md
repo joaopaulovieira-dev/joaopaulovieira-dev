@@ -26,4 +26,4 @@
 ----
 ## <img align="left" alt="Twitter" width="30px" src="https://cdn-icons-png.freepik.com/128/4764/4764436.png" /> Minhas Estatísticas de Desenvolvimento:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=joaopaulovieira-dev&theme=github-dark-blue&hide_border=true&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=joaopaulovieira-dev&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
