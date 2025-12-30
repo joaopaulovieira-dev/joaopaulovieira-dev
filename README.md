@@ -20,7 +20,7 @@
 - 📫 Como entrar em contato comigo: [contato@joaopaulovieira.dev](mailto:contato@joaopaulovieira.dev)
 ---
 ## <img align="left" alt="Twitter" width="30px" src="https://cdn-icons-png.freepik.com/512/13415/13415566.png" /> Meus Apps na Playstore:
-<code><img height="20" src="https://play-lh.googleusercontent.com/JLYSOB607Bb1CoyGmidxpKeaHqbGm4QmVmC7yeR4l8WebqMmKWtyBmWsNqVDBjTmq0E=w240-h480-rw"></code>
+<code><img height="20" src="https://lh3.googleusercontent.com/V5tmEj3CmL78FgDriO-4XKpJPF4p59bGVWSbnb-xMDuOf120iDj5IUIqvc-S-VI3OPGrxDynJL54Dstb5YmSCmw"></code>
 [Pads Ambiente](https://play.google.com/store/apps/details?id=dev.joaopaulovieira.padsambiente)
 
 ----
