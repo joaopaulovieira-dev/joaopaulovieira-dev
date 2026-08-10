@@ -13,8 +13,8 @@
 <br><br/>
 
 - 🔭 Atualmente, atuo como Gerente de TI, com mais de 11 anos de sólida experiência na área de Tecnologia da Informação.
-- 👦 Tenho 31 anos, curto muita música 🎸, games 🎮 e tecnologia 💻.
-- 👪 Brasileiro, casado e com 1 filho.
+- 👦 Tenho 32 anos, curto muita música 🎸, games 🎮 e tecnologia 💻.
+- 👪 Brasileiro, casado, com 2 filhos.
 - 👨🏻‍🎓 Graduado em Sistemas de Informação e Pós Graduado em Engenharia de Software e Desolvolvimento Mobile.
 - ⚡ Curiosidade: Trabalho com tecnologia mas não gosto de café ☕ 🚫 😂
 - 📫 Como entrar em contato comigo: [contato@joaopaulovieira.dev](mailto:contato@joaopaulovieira.dev)
